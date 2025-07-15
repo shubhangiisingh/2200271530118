@@ -1,0 +1,5 @@
+
+{
+  "name": "QuickLink URL Shortener",
+  "description": "A client-side URL shortener application built with React and Tailwind CSS. It allows users to create short, memorable links from long URLs, set custom aliases, define expiration times, and view basic analytics for each link."
+}
